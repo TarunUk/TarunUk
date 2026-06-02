@@ -1,88 +1,83 @@
 # Hi 👋, I'm Tarun Rajput
 
-🚀 Aspiring Cloud & DevOps Engineer
-💻 Passionate about Building Real-World Projects
-☁️ Currently learning Cloud Computing, Docker & AWS
+🚀 Aspiring Cloud & DevOps Engineer  
+☁️ Learning AWS | Docker | Kubernetes | CI/CD Automation  
+💻 Building Real-World Full Stack & DevOps Projects  
 
 ---
 
 ## 🧑‍💻 About Me
 
-* 🌱 Learning **Cloud Computing & DevOps**
-* 🔧 Focused on building **real-world projects**
-* 📚 Interested in **Cloud Infrastructure, Deployment & Automation**
-* 💡 Improving problem-solving and development skills
+- 🌱 Currently learning **Cloud & DevOps (AWS, Docker, Jenkins)**
+- 🔧 Building **real-world CI/CD and deployment projects**
+- ⚙️ Interested in **automation, infrastructure & system design**
+- 🚀 Focused on becoming a **DevOps / Cloud Engineer**
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Programming Languages
-
-C | C++ | Java | Python
+### Programming
+C | C++ | Java | Python  
 
 ### Web Development
+HTML | CSS | JavaScript | Node.js  
 
-HTML | JavaScript
+### DevOps & Cloud
+Docker | Jenkins | Linux | AWS (Learning)  
 
-### Tools & Technologies
-
-Git | GitHub | VS Code
-
-### Cloud & DevOps (Learning)
-
-AWS | Docker | Linux
+### Tools
+Git | GitHub | VS Code  
 
 ---
 
-## 📂 Projects
+## 📂 Featured Projects
 
-🔹 **Personal Cloud Storage System**
-A cloud-based file storage application built using Python, allowing users to upload and manage files efficiently.
+🔹 **Jenkins CI/CD Pipeline Project**  
+Automated CI/CD pipeline using Jenkins to build, push Docker images, and deploy Node.js applications.
 
-🔹 **Flask Web App**
-A simple web application built using Flask to understand backend development and routing.
+🔹 **Docker Multi-Tier Application**  
+Containerized full-stack application using Docker for deployment and scaling.
 
-🔹 **Resume Builder**
-A web-based tool to generate resumes using HTML.
+🔹 **Personal Cloud Storage System**  
+Cloud-based file storage system with upload and management features.
 
-🔹 **Voter List System**
-A basic web project for managing and displaying voter data.
+🔹 **Flask Web App**  
+Basic backend web application using Flask for learning routing and APIs.
 
-🔹 **Digital Portfolio**
-A personal portfolio website built using modern web technologies to showcase projects and skills.
+🔹 **Digital Portfolio Website**  
+Personal portfolio website to showcase skills and projects.
 
 ---
 
 ## 📊 GitHub Stats
 
-![Tarun's GitHub stats](https://github-readme-stats.vercel.app/api?username=TarunUk\&show_icons=true\&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=TarunUk&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TarunUk\&layout=compact\&theme=tokyonight)
-
----
-
-## 🎯 Current Goals
-
-* Build strong **Cloud & DevOps projects**
-* Gain hands-on experience with **AWS & Docker**
-* Improve **deployment and system design skills**
-* Strengthen development fundamentals
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TarunUk&layout=compact&theme=tokyonight)
 
 ---
 
-## 💬 Developer Quote
+## 🎯 Current Focus
 
-> "Programs must be written for people to read, and only incidentally for machines to execute."
-> — Harold Abelson
+- 🚀 Mastering **CI/CD pipelines (Jenkins & GitHub Actions)**
+- 🐳 Learning **Docker & container orchestration**
+- ☁️ Exploring **AWS cloud services**
+- ⚙️ Building end-to-end DevOps projects
+
+---
+
+## 💬 DevOps Quote
+
+> "Automation is good, so long as you know exactly where to put the machine." — Eliyahu Goldratt
 
 ---
 
 ## 🤝 Let's Connect
 
-📧 Email: [tarunrajput.8606@gmail.com](mailto:tarunrajput.8606@gmail.com)
-🔗 GitHub: https://github.com/TarunUk
+📧 Email: tarunrajput.8606@gmail.com  
+🔗 GitHub: https://github.com/TarunUk  
 
 ---
 
-⭐ Always learning | Always building | Always improving
+⭐ Always learning | Always building | Always improving 🚀
