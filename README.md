@@ -1,40 +1,48 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:00ff88&height=180&section=header&text=Tarun%20Rajput&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=Cloud%20%26%20DevOps%20Engineer&descAlignY=62&descSize=16&animation=fadeIn" width="100%"/>
+<!-- Animated Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Tarun%20Rajput&fontSize=70&fontColor=00d4ff&fontAlignY=38&desc=Cloud%20%26%20DevOps%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=58&descAlign=50&animation=fadeIn" />
 
-</div>
+<!-- Typing SVG -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=☁️+Aspiring+Cloud+%26+DevOps+Engineer;🐳+Docker+%7C+Kubernetes+%7C+AWS;🌐+Web+Developer+%7C+Python+%7C+Java;🚀+Building+Scalable+Cloud+Solutions;💡+Always+Learning%2C+Always+Growing" alt="Typing SVG" />
+</a>
 
-<div align="center">
+<br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00D4FF&center=true&vCenter=true&width=480&lines=🚀+Aspiring+DevOps+Engineer;🐳+Docker+%7C+Jenkins+%7C+AWS;☁️+Building+Cloud+Infrastructure;💻+Always+Learning+%7C+Always+Building)](https://git.io/typing-svg)
+<!-- DevOps GIF -->
+<img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/>
 
-</div>
+<br/>
 
-<div align="center">
+<!-- Animated DevOps Developer GIF -->
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" alt="Developer at Work"/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tarunrajput123)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tarunrajput.8606@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00D4FF?style=for-the-badge&logo=vercel&logoColor=black)](https://TarunUk.github.io)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TarunUk)
+<br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=TarunUk&color=00d4ff&style=flat-square&label=Profile+Views)
+<!-- Badges -->
+![Profile Views](https://komarev.com/ghpvc/?username=TarunUk&color=00d4ff&style=for-the-badge&label=PROFILE+VIEWS)
+[![GitHub followers](https://img.shields.io/github/followers/TarunUk?style=for-the-badge&color=00d4ff&labelColor=0d1117&label=FOLLOWERS)](https://github.com/TarunUk)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tarunrajput123/)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 About Me
 
 ```yaml
-name     : Tarun Rajput
-location : India 🇮🇳
-role     : Aspiring Cloud & DevOps Engineer
-focus    : Docker · Jenkins · AWS · Kubernetes · Linux
-building : Real-world containerized & automated projects
-languages: C · C++ · Java · Python · JavaScript
-goal     : Cloud Infrastructure & CI/CD Automation
-fun_fact : I automate everything I can 🤖
+Name       : Tarun Rajput
+Location   : UK 🇬🇧
+Role       : Aspiring Cloud & DevOps Engineer
+Focus      : AWS | Docker | Kubernetes | CI/CD
+Passion    : Building scalable cloud-native solutions
+Email      : tarunrajput.8606@gmail.com
+Portfolio  : TarunUk.github.io
+Status     : 🟢 Open to Opportunities
 ```
+
+> *"Infrastructure as code is just code — and code can be beautiful."*
 
 ---
 
@@ -43,13 +51,25 @@ fun_fact : I automate everything I can 🤖
 <div align="center">
 
 ### ☁️ Cloud & DevOps
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,linux,nginx,jenkins&theme=dark" />
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ### 💻 Languages
-<img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,typescript&theme=dark" />
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-### 🌐 Web & Tools
-<img src="https://skillicons.dev/icons?i=flask,html,css,git,github,vscode&theme=dark" />
+### 🌐 Web Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 </div>
 
@@ -59,20 +79,16 @@ fun_fact : I automate everything I can 🤖
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=TarunUk&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00ff88&text_color=c9d1d9&ring_color=00d4ff" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TarunUk&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9" height="170"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TarunUk&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=00d4ff&title_color=00d4ff&icon_color=00d4ff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TarunUk&layout=compact&theme=tokyonight&border_color=00d4ff&title_color=00d4ff"/>
 
-</div>
+<br/>
 
-<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=TarunUk&theme=tokyonight&border=00d4ff&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff" alt="Streak Stats"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TarunUk&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4ff&fire=ff6b35&currStreakLabel=00d4ff&sideLabels=00d4ff" width="60%"/>
+<br/>
 
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TarunUk&bg_color=0d1117&color=00d4ff&line=00ff88&point=ff6b35&area=true&hide_border=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TarunUk&theme=tokyo-night&border_color=00d4ff&color=00d4ff&line=00d4ff&point=ffffff" width="100%" />
 
 </div>
 
@@ -81,31 +97,41 @@ fun_fact : I automate everything I can 🤖
 ## 🏆 GitHub Trophies
 
 <div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=TarunUk&theme=tokyonight&no-frame=true&row=1&column=7" width="100%" />
+</div>
 
-<img src="https://github-profile-trophy.vercel.app/?username=TarunUk&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=4"/>
+---
+
+## 📌 Featured Projects
+
+<div align="center">
+
+[![Docker Multi-Tier](https://github-readme-stats.vercel.app/api/pin/?username=TarunUk&repo=Docker-Multi-Tier-Application&theme=tokyonight&border_color=00d4ff&title_color=00d4ff)](https://github.com/TarunUk/Docker-Multi-Tier-Application)
+[![Jenkins Project](https://github-readme-stats.vercel.app/api/pin/?username=TarunUk&repo=Jenkins-Project&theme=tokyonight&border_color=00d4ff&title_color=00d4ff)](https://github.com/TarunUk/Jenkins-Project)
+[![Personal Cloud Storage](https://github-readme-stats.vercel.app/api/pin/?username=TarunUk&repo=Personal-Cloud-Storage&theme=tokyonight&border_color=00d4ff&title_color=00d4ff)](https://github.com/TarunUk/Personal-Cloud-Storage)
+[![Dynamic Resume Builder](https://github-readme-stats.vercel.app/api/pin/?username=TarunUk&repo=Dynamic-Resume-Builder&theme=tokyonight&border_color=00d4ff&title_color=00d4ff)](https://github.com/TarunUk/Dynamic-Resume-Builder)
 
 </div>
 
 ---
 
-## 🎯 Current Goals
+## 🌐 Connect with Me
 
-```
-🐳  Master Docker & Kubernetes for production deployments
-☁️  Get hands-on with AWS — EC2, S3, IAM, Lambda
-🔄  Build end-to-end CI/CD pipelines with Jenkins & GitHub Actions  
-📜  Earn AWS Solutions Architect certification
-🌐  Deploy full-stack cloud projects
-```
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tarunrajput123/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tarunrajput.8606@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TarunUk)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://tarunuk.github.io)
+
+</div>
 
 ---
 
 <div align="center">
 
-*"First solve the problem. Then write the code."*
+💡 *"First, solve the problem. Then, write the code."* — John Johnson
 
-⭐ Always learning &nbsp;·&nbsp; Always building &nbsp;·&nbsp; Always improving
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff88,100:00d4ff&height=100&section=footer&animation=fadeIn" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
 
 </div>
