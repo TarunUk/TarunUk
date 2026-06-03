@@ -31,6 +31,7 @@ interface Developer {
     frontend: string[];
     tools: string[];
   };
+  portfolios: string[];
   funFact: string;
 }
 
@@ -42,10 +43,14 @@ const tarun: Developer = {
   expertise: {
     cloud: ["AWS", "Docker", "Kubernetes", "Personal Cloud Storage"],
     devops: ["Jenkins", "CI/CD Pipelines", "DevOps Practice", "Linux"],
-    backend: ["Flask", "Node.js", "REST APIs", "Java Spring"],
+    backend: ["Flask", "Node.js", "REST APIs", "Java"],
     frontend: ["HTML5", "CSS3", "JavaScript", "Dynamic Web Apps"],
     tools: ["Git", "GitHub", "VS Code", "Resume Builder"]
   },
+  portfolios: [
+    "https://tarunuk.github.io",
+    "https://digital-portfolio-zq2z.vercel.app"
+  ],
   funFact: "I containerize everything — even my morning coffee routine! ☕🐳"
 };
 ```
@@ -110,7 +115,11 @@ const tarun: Developer = {
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tarunrajput123/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tarunrajput.8606@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TarunUk)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tarunuk.github.io)
+
+<br/>
+
+[![GitHub Pages Portfolio](https://img.shields.io/badge/🌐%20Portfolio%20--%20GitHub%20Pages-24292e?style=for-the-badge&logo=github-pages&logoColor=white)](https://tarunuk.github.io)
+[![Vercel Portfolio](https://img.shields.io/badge/🚀%20Portfolio%20--%20Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://digital-portfolio-zq2z.vercel.app)
 
 </div>
 
